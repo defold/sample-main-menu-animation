@@ -1,7 +1,6 @@
----
 # Main menu animation tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ndkyRuXUr-4" frameborder="0" allowfullscreen></iframe>
+[![Main menbu animation](https://img.youtube.com/vi/dPQpSlt3ahw/0.jpg)](https://www.youtube.com/watch?v=dPQpSlt3ahw)
 
 In this sample, we demonstrate effects to present a main menu. The menu contains a background and two menu items.
 This project is ready setup with a menu.gui and menu.gui_script applied with code shown below. Image assets are added to an atlas named images.atlas and are applied to nodes in menu.gui.
